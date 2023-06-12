@@ -1,1 +1,22 @@
-ls -la
+total 80
+drwxr-xr-x 2 root root  4096 Jun 12 14:13 .
+drwxr-xr-x 6 root root   142 Jun 12 11:29 ..
+-rwxr-xr-x 1 root root    31 Jun 12 11:56 0-hello_world
+-rwxr-xr-x 1 root root    49 Jun 12 13:58 10-no_more_js
+-rwxr-xr-x 1 root root    39 Jun 12 14:01 11-directories
+-rwxr-xr-x 1 root root    28 Jun 12 12:10 1-confused_smiley
+-rwxr-xr-x 1 root root    28 Jun 12 12:08 2-hellofile
+-rwxr-xr-x 1 root root    40 Jun 12 12:14 3-twofiles
+-rwxr-xr-x 1 root root    30 Jun 12 12:17 4-lastlines
+-rwxr-xr-x 1 root root    30 Jun 12 12:20 5-firstlines
+-rwxr-xr-x 1 root root    37 Jun 12 12:38 6-third_line
+-rwxr-xr-x 1 root root   103 Jun 12 12:47 7-file
+-rwxr-xr-x 1 root root    36 Jun 12 14:13 8-cwd_state
+-rw-r--r-- 1 root root 12288 Jun 12 13:09 .8-cwd_state.swp
+-rwxr-xr-x 1 root root    37 Jun 12 13:39 9-duplicate_last_line
+-rw-r--r-- 1 root root    80 Jun 12 12:46 \*\\'"Best
+-rw-r--r-- 1 root root    12 Jun 12 12:47 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxr-xr-x 1 root root    53 Jun 12 12:19 git
+-rw-r--r-- 1 root root     0 Jun 12 13:39 iacta
+-rw-r--r-- 1 root root     0 Jun 12 14:13 ls_cwd_content
+-rw-r--r-- 1 root root    11 Jun 12 11:44 README.md
