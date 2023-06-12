@@ -1,2 +1,2 @@
 #!/bin/bash
-wc alx-system_engineering-devops 
+ls -lR | grep ^d | wc -l
